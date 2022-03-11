@@ -12,11 +12,6 @@ public class HelloDemo {
 	public String helloWorld() throws Exception {
 		{
 			String str1="Hello, My Name is Hari Prasanth!!!";
-			String str2="sas";
-
-			String str3="sas";
-
-			String str4="sas";
 			return str1;
 		}
 	}
