@@ -11,7 +11,8 @@ public class HelloDemo {
 	@RequestMapping(value = "/hello", method = RequestMethod.GET)
 	public String helloWorld() throws Exception {
 		{
-			String str1="Hello, My Name is Hari Prasanth!";
+			String str1="Hello, My Name is Hari Prasanth!!!";
+			String str2="Hi"
 			return str1;
 		}
 	}
